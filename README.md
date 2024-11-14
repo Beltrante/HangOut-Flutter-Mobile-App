@@ -4,7 +4,7 @@
 HangOut is a modern mobile app that revolutionizes socializing. It offers a seamless user experience with four main pages: _My events_, _Explore_, _My groups_, and _Profile_. Users can discover events and groups based on specific interests, manage their activities, and personalize their account. HangOut also includes interactive pop-ups for viewing detailed information, accessing user profiles, creating events and groups, and managing notifications.
 
 
-The application, developed by me and [Matteo](https://github.com/Beltrante), follows a **CI/CD** process thanks to Github actions and is currently available [here](https://play.google.com/store/apps/details?id=com.bendinelli.beltrante.hang_out_app). Elisa, an exceptional designer, contributes to the UI/UX. Explore her amazing work on her website [here](http://elisaciliberti.it/).
+The application, developed by me and [Marco](https://github.com/MarcoBendinelli), follows a **CI/CD** process thanks to Github actions and is currently available [here](https://play.google.com/store/apps/details?id=com.bendinelli.beltrante.hang_out_app). Elisa, an exceptional designer, contributes to the UI/UX. Explore her amazing work on her website [here](http://elisaciliberti.it/).
 
 ## Design Document
 
